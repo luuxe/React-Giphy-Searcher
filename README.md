@@ -1,3 +1,9 @@
+#Giphy Searcher - a fun and functional web app using the Giphy Searcher API (https://developers.giphy.com/docs/sdk)
+###future functionality: allow users to copy gif URL to clipboard
+
+<img width="1271" alt="Screen Shot 2022-07-12 at 7 48 54 AM" src="https://user-images.githubusercontent.com/104602440/178493628-de2a1d27-3139-4567-8ac7-20ade2993e68.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
