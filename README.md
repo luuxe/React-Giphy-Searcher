@@ -1,6 +1,8 @@
 # Giphy Searcher - a fun and functional web app using the Giphy Searcher API (https://developers.giphy.com/docs/sdk)
 ### future functionality: allow users to copy gif URL to clipboard
 
+Live deployment: https://react-giphy-searcher.netlify.app/
+
 <img width="1271" alt="Screen Shot 2022-07-12 at 7 48 54 AM" src="https://user-images.githubusercontent.com/104602440/178493628-de2a1d27-3139-4567-8ac7-20ade2993e68.png">
 
 
